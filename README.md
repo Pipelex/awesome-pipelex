@@ -9,6 +9,7 @@
 |-------------|------------------|
 | **[pipelex](https://github.com/Pipelex/pipelex)** | The core open-source Python library. |
 | **[pipelex-cookbook](https://github.com/Pipelex/pipelex-cookbook)** | Official & community pipeline examples.<br>→ Add your own pipelines under the `community/` folder via PR! |
+| **[pipelex-simple-websearch](https://github.com/Josephrp/pipelex-simple-webagent)** | Simple websearch agent that augments your querries to produce the best search results and summaries |
 
 ---
 
